@@ -8,7 +8,7 @@ def helloWorld():
 
 @app.route('/aboutus', methods=['GET'])
 def aboutWorld():
-    return 'About Us'
+    return 'About Us all'
 
 
 if __name__=="__main__":
